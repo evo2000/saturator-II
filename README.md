@@ -1,6 +1,6 @@
 # Saturator
 
-A wave-shaping device made with [Max for Live](https://www.ableton.com/en/live/max-for-live/). Use the clip, exponential, and sinusoidal parameters to design a transfer function, or draw one in with your mouse.
+A wave-shaping device made with [Max for Live](https://www.ableton.com/en/live/max-for-live/). Use the exponential, clip, and sinusoidal parameters to design a transfer function, or draw one in with your mouse.
 
 ![plot](./demo.png)
 
